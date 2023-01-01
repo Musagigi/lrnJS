@@ -105,7 +105,7 @@ let jivot = {
 		}
 	},
 	sleep() {
-		this.isSleeping = true
+		return this.isSleeping = true
 	}
 }
 let krolik = {
