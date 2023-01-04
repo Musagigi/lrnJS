@@ -115,7 +115,7 @@ console.log(rabbb);
 console.log(rabbb.earLength)
 rabbb.run(2)
 rabbb.stop()
-console.log();
+console.log(  );
 
 // [[HomeObject]]
 // Когда функция объявлена как метод внутри класса или объекта, 
